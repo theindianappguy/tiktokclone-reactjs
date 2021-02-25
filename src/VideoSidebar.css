@@ -1,0 +1,24 @@
+.videoSidebar {
+  color: white;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+}
+
+.videoSidebar__button {
+  text-align: center;
+  border-radius: 34px;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+.videoSidebar__button > .MuiSvgIcon-root {
+  background-color: #ffffff5d;
+  padding: 12px;
+  border-radius: 50%;
+}
+
+.videoSidebar__button > p {
+  margin: 4px 0px;
+  font-size: 14px;
+}
